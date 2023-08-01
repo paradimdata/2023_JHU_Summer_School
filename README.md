@@ -42,6 +42,11 @@ What does it mean if your black box
 5. Mithrel makes predictions
 6. Extrapolation is a central problem. Can we? 
 6. Start poking at community databases! You learn by playing.
+7. Precision means right or wrong. 
+ * Recall is if you find or don't find something in a class. What percentage of true positives are returned correctly?  That's recall. 
+ * What proportion of positive identifications is actually correct? That's precision. 
+ * A model with no false negatives is recall = 1.0 
+ * A model with no false positives is precision = 1.0
 
 
 info, exercises, and notebooks for the 2023 Summer School at JHU PARADIM
