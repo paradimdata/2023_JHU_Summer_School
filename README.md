@@ -40,7 +40,8 @@ What does it mean if your black box
  * What do we have?
  * What do we need?  
 5. Mithrel makes predictions
-6. Start poking at community databases
+6. Extrapolation is a central problem. Can we? 
+6. Start poking at community databases! You learn by playing.
 
 
 info, exercises, and notebooks for the 2023 Summer School at JHU PARADIM
