@@ -34,7 +34,8 @@ Features/Descriptors are high value.
 1. ML can be “black box”   
 When is this a problem? When is it not?  How does one use machine learning?
 What does it mean if your black box
-2. Tools use data. Databases are changing relatively fast. 
+2. Tools use data. Databases are changing relatively fast.
+3. Distance from Convex Hull is important 
 3. ML is often split into three types: Clustering, Classification, Regression. What are some problems 
 4. Important Databases are the fuel: Materials Project, OQMD, ICSD… make a list! [Check out someone else's list!](https://github.com/tilde-lab/awesome-materials-informatics)  
  * What do we have?
