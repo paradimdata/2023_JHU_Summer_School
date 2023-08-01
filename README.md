@@ -2,7 +2,7 @@
 
 [School Agenda Linked Here](https://www.paradim.org/2023_JHU_SS)
 
-This repo provides some of the shared resources for the school including notebooks and links used in lectures or for hands-on experiments/investigations.
+###### This repo provides some of the shared resources for the school including notebooks and links used in lectures or for hands-on experiments/investigations.
 ---
 #### Some Tool Info to Prepare:
 
