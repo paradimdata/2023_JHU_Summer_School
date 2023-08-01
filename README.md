@@ -48,5 +48,42 @@ What does it mean if your black box
  * A model with no false negatives is recall = 1.0 
  * A model with no false positives is precision = 1.0
 
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtext>Precision</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>T</mi>
+      <mi>P</mi>
+    </mrow>
+    <mrow>
+      <mi>T</mi>
+      <mi>P</mi>
+      <mo>+</mo>
+      <mi>F</mi>
+      <mi>P</mi>
+    </mrow>
+  </mfrac>
+</math>
 
-info, exercises, and notebooks for the 2023 Summer School at JHU PARADIM
+
+---
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtext>Recall</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>T</mi>
+      <mi>P</mi>
+    </mrow>
+    <mrow>
+      <mi>T</mi>
+      <mi>P</mi>
+      <mo>+</mo>
+      <mi>F</mi>
+      <mi>N</mi>
+    </mrow>
+  </mfrac>
+</math>
+
+---
