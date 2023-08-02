@@ -4,13 +4,17 @@
 
 ###### This repo provides some of the shared resources for the school including notebooks and links used in lectures or for hands-on experiments/investigations.
 ---
+#### A Crashcourse in Building ML Models with Python and Tensorflow
+* https://occamy.chemistry.jhu.edu/SS2023
+
+---
 #### Some Tool Info to Prepare:
 
 * https://nanohub.org/tools/compphasestab  (Ale’s example: let’s get a Materials Project API Key and run it)
-* Install XtalOpt with GULP (needed tomorrow):
+* Install XtalOpt with GULP:
  * XtalOpt install:  http://xtalopt.github.io/download.html
- * GULP :  https://gulp.curtin.edu.au/download.html
- * Start XtalOpt!  (For the Mac you may have to control-click to allow it to open since it is a non-registered developer.)
+ * GULP :  https://gulp.curtin.edu.au/download.html (pre-built windows exe available on private course page shared with in person attendees)
+ * Start XtalOpt!  (For the Mac you may have to control-click to allow it to open since it is a non-registered developer.)
 * SciServer JupyterLab:  
   * Make Compute Container
   * Browse to your temporary storage and git clone https://github.com/paradimdata/2023_JHU_Summer_School
