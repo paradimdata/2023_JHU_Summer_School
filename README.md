@@ -92,3 +92,19 @@ What does it mean if your black box
 </math>
 
 ---
+##### Day 3
+
+1. Convex Hull shows lowest energy configurations of a system of phases. If you want to make something it needs to be on the hull or not far above it.    
+ * How well can we compute the convex hull away from the ground state?
+2. Informatics makes the jump from computed properties to searching the property space fast and much easier.
+3. How do you featurize (fingerprint) something to meet your question?
+4. ML works in multiple places in the materials discovery/design workflow!
+ * make functionals for DFT
+ * as a fast proxy for DFT 
+ * to analyze and make predictions from data (including that computed by DFT)
+ * Controlling high-throughput experiments (automation and autonomy)
+5. Guides when plugging in ML:
+ * Use good physical model when you have it; 
+ * keep ML as simple as needed; 
+ * use explainable ML when possible. 
+6. Simple and explainable is always a goal.
